@@ -1,0 +1,25 @@
+.text-success{
+    font-size:35;
+}
+#home{
+    background: rgb(63,251,116);
+background: radial-gradient(circle, rgba(63,251,116,1) 6%, rgba(70,252,238,1) 100%);
+}
+body{
+ text-align:center;
+}
+#home p{
+    text-decoration-color: aliceblue;
+}
+#videos{
+    background: rgb(70,252,155);
+background: radial-gradient(circle, rgba(70,252,155,1) 9%, rgba(215,251,63,1) 100%);
+}
+#work{
+    background: rgb(198,255,110);
+background: radial-gradient(circle, rgba(198,255,110,1) 9%, rgba(225,251,63,1) 100%);
+}
+#news{
+    background: rgb(255,213,113);
+background: radial-gradient(circle, rgba(255,213,113,1) 2%, rgba(198,255,47,1) 100%);
+}
