@@ -23,3 +23,11 @@ background: radial-gradient(circle, rgba(198,255,110,1) 9%, rgba(225,251,63,1) 1
     background: rgb(255,213,113);
 background: radial-gradient(circle, rgba(255,213,113,1) 2%, rgba(198,255,47,1) 100%);
 }
+.watermelon{
+    height: 300px;
+    width: 250px;
+}
+#contact{
+    background: rgb(85,255,42);
+background: radial-gradient(circle, rgba(85,255,42,1) 2%, rgba(0,113,17,1) 100%);
+}
